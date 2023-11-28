@@ -8,7 +8,7 @@ This project is for M.2 Carrier boards + SOMs
 - 2 x SPI Buses
 - 2 x IMUs (I2C0 & SPI0)
 - 2 x Barometric sensors (I2C1 & SPI1)
-- 1 x SD Card
+- 1 x SD Card (SPI1)
 - 3 x UART Serial (GPS & x2 Debug)
 - 1 x JTAG port
 - 1 x SWD port
