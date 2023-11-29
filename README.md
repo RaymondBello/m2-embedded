@@ -1,4 +1,4 @@
-# m2-embedded
+# m2-embedded - AeroCore v0.1
 This project is for M.2 Carrier boards + SOMs
 
 ## M.2 Carrier Board 
