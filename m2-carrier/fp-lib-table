@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "TPS63070RNMR")(type "KiCad")(uri "/Users/raybello/Github/m2-embedded/lib/ul_TPS63070RNMR/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "AT7456E")(type "KiCad")(uri "/Users/raybello/Github/m2-embedded/lib/ul_max7456eui-/KiCADv6/footprints.pretty")(options "")(descr ""))
+)
