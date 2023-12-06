@@ -1,0 +1,17 @@
+.MEM2085-00-115-00-A :1 ;Memory Card Connectors Micro SD Push Pull SMT 1.15mm No Peg
+MEM20850011500A
+*STM J
+*NGS
+*PNM 1=G1 2=G2 3=G3 4=G4 5=G5 6=G6 7=G7 8=G8 9=G9 10=G10 11=P1 12=P2 13=P3 14=P4 15=P5 16=P6 17=P7 18=P8 19=CD1
+*PLB 1="GND_1" 2="GND_2" 3="GND_3" 4="GND_4" 5="GND_5" 6="GND_6" 7="GND_7" 8="GND_8" 9="GND_9" 10="GND_10" 11="DAT2" 12="CD/DAT3" 13="CMD" 14="VDD" 15="CLK" 16="VSS" 17="DAT0" 18="DAT1" 19="CD1"
+*MXP 19
+*DFN MEM2085-00-115-00-A
+~!Mouser Part Number (640-MEM20850011500A)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/GCT/MEM2085-00-115-00-A?qs=rQFj71Wb1eWNkFUhuuvVIA%3D%3D)
+~!Manufacturer_Name (GCT (GLOBAL CONNECTOR TECHNOLOGY))
+~!Manufacturer_Part_Number (MEM2085-00-115-00-A)
+~!Link Datasheet (https://gct.co/files/drawings/mem2085.pdf)
+~!Height (1.35mm)
+~!3D_Model (MEM2085-00-115-00-A)
+MEM2085-00-115-00-A
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 13.1!U 14.1!U 15.1!U 16.1!U 17.1!U 18.1!U 19.1!U 

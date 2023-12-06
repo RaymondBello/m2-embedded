@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "DMP3013SFV7"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "DMP3013SFV7")
+        (spec "default")
+    )
+)

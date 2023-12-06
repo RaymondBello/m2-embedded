@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "USB4120-03-C"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2021-04-28-11:12:23)
+    (mountForm default
+        (footprintRef "USB412003C")
+        (spec "System")
+    )
+)

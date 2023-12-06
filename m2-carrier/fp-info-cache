@@ -1,4 +1,32 @@
-22172126115663494
+22184036304629308
+2199119-4
+21991194
+2199119-4-2
+Connector
+0
+69
+69
+AT7456E
+21-0108G_U28E-5_MXM
+
+max7456eui+ 
+0
+29
+29
+AT7456E
+21-0108G_U28E-5_MXM-L
+
+max7456eui+ 
+0
+29
+29
+AT7456E
+21-0108G_U28E-5_MXM-M
+
+max7456eui+ 
+0
+29
+29
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -51806,6 +51834,13 @@ SMD SMT ceramic resonator filter filter hand-soldering
 0
 3
 3
+DMP3013SFV-7
+DMP3013SFV7
+DMP3013SFV-7-2
+MOSFET (P-Channel)
+0
+9
+9
 Diode_SMD
 D_0201_0603Metric
 Diode SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator
@@ -61333,6 +61368,13 @@ Yellow 5381 Series LED
 0
 2
 2
+MEM2085
+MEM20850011500A
+MEM2085-00-115-00-A-3
+Connector
+0
+19
+19
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
@@ -90551,6 +90593,13 @@ igbt diode module
 0
 25
 25
+USB4120
+USB412003C
+USB4120-03-C
+Connector
+0
+20
+20
 Valve
 Valve_ECC-83-1
 Valve ECC-83-1 round pins

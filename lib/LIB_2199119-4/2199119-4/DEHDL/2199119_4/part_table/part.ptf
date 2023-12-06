@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '2199119_4'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "TE Connectivity", "2199119-4" (!) = "", "21991194", "Other", "571-2199119-4", "https://www.mouser.co.uk/ProductDetail/TE-Connectivity/2199119-4?qs=EQCnRgr4b6HleVSqFeBacg%3D%3D", "AMP - TE CONNECTIVITY - 2199119-4 - Card Edge Connector, Dual Side, 67 Contacts, Surface Mount, Right Angle, Solder", "https://componentsearchengine.com/Datasheets/5/2199119-4.pdf", "3.2 mm"
+END_PART
+
+END.

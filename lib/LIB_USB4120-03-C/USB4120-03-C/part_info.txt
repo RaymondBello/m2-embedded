@@ -1,0 +1,9 @@
+Manufacturer=GCT (GLOBAL CONNECTOR TECHNOLOGY)
+PartNumber=USB4120-03-C
+PartCategory=Connector
+PackageCategory=Other
+PinCount=20
+Version=1.4
+Released=2021-04-28 11:12:23
+Downloaded=2023-12-02 14:28:01
+3D=Y

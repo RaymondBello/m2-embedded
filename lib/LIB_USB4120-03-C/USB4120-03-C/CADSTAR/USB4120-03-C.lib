@@ -1,0 +1,17 @@
+.USB4120-03-C :1 ;USB Connectors USB C Rec 3u" vert 16P SMT & TH stakes pegs T+R+C H = 9.25
+USB412003C
+*STM J
+*NGS
+*PNM 1=A1 2=A4 3=A5 4=A6 5=A7 6=A8 7=A9 8=A12 9=B1 10=B4 11=B5 12=B6 13=B7 14=B8 15=B9 16=B12 17=MH1 18=MH2 19=MH3 20=MH4
+*PLB 1="GND_1" 2="VBUS_1" 3="CC1" 4="DP1" 5="DN1" 6="SBU1" 7="VBUS_2" 8="GND_2" 9="GND_3" 10="VBUS_3" 11="CC2" 12="DP2" 13="DN2" 14="SBU2" 15="VBUS_4" 16="GND_4" 17="MH1" 18="MH2" 19="MH3" 20="MH4"
+*MXP 22
+*DFN USB4120-03-C
+~!Mouser Part Number (640-USB4120-03-C)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/GCT/USB4120-03-C?qs=KUoIvG%2F9IlZaAd13sVDhkQ%3D%3D)
+~!Manufacturer_Name (GCT (GLOBAL CONNECTOR TECHNOLOGY))
+~!Manufacturer_Part_Number (USB4120-03-C)
+~!Link Datasheet (https://gct.co/connector/usb4120)
+~!Height (6.75mm)
+~!3D_Model (USB4120-03-C)
+USB4120-03-C
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 13.1!U 14.1!U 15.1!U 16.1!U 17.1!U 18.1!U 19.1!U 20.1!U 

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DMP3013SFV-7
+D Trans MOSFET P-CH 30V 12A 8-Pin PowerDI EP T/R
+K
+F https://4donline.ihs.com/images/VipMasterIC/IC/DIOD/DIOD-S-A0008513542/DIOD-S-A0008513542-1.pdf?hkey=52A5661711E402568146F3353EA87419
+$ENDCMP
+#
+#End Doc Library

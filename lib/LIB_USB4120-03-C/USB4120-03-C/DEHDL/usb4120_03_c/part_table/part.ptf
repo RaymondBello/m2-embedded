@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'USB4120_03_C'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "GCT (GLOBAL CONNECTOR TECHNOLOGY)", "USB4120-03-C" (!) = "", "USB412003C", "Other", "640-USB4120-03-C", "https://www.mouser.co.uk/ProductDetail/GCT/USB4120-03-C?qs=KUoIvG%2F9IlZaAd13sVDhkQ%3D%3D", "USB Connectors USB C Rec 3u" vert 16P SMT & TH stakes pegs T+R+C H = 9.25", "https://gct.co/connector/usb4120", "6.75 mm"
+END_PART
+
+END.
